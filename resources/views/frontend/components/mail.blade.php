@@ -19,6 +19,10 @@
         Märkused: {{ $data['summary'] }}<br/><br/>
     </p>
     <p>
+    NB: Keemilise puhastuse tööde üle andmine teenuse osutamisest järgneval päeval!<br/>
+    Broneeringus näidatud tööaeg võib erineda reaalsest tööde teostamise ajast!
+    </p>
+    <p>
         Kui leiate, et Te ei saa broneeritud ajal kohale ilmuda, siis<br/>
         on kõige mugavam broneering tühistada klikkides järgnevat
     </p>
